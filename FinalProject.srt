@@ -1,0 +1,87 @@
+﻿1
+00:00:00,240 --> 00:00:06,230
+This video will show how the game works, so let's get started.
+
+2
+00:00:06,240 --> 00:00:08,750
+As you can see here, it shows instructions,
+
+3
+00:00:08,760 --> 00:00:12,550
+a grid with the asterisks, a timer showing the time elapsed,
+
+4
+00:00:12,560 --> 00:00:17,470
+and the amount of unmatched cards remaining. And this is how the game asks for coordinates,
+
+5
+00:00:17,480 --> 00:00:20,870
+say i want row 1, column 1. It's asking me for a row number,
+
+6
+00:00:20,880 --> 00:00:24,830
+so i press 1 and enter. And column number, I press 1,
+
+7
+00:00:24,840 --> 00:00:29,910
+enter. It hides a card. And then, if I want to, it will ask me for second card
+
+8
+00:00:30,120 --> 00:00:36,230
+want to reveal. So I want row 3, column 1. So i write 3, 1
+
+9
+00:00:36,240 --> 00:00:39,230
+and [it] matches. And as you just heard, it play a sound when you match
+
+10
+00:00:39,240 --> 00:00:45,670
+the cards. But if I don't match a card, this will
+
+11
+00:00:45,680 --> 00:00:50,790
+happen. It will just say "No match, try again.". And then you try
+
+12
+00:00:50,800 --> 00:00:53,390
+again. If you do not write 1,
+
+13
+00:00:53,400 --> 00:00:57,590
+2, 3 or 4 for a coordinate, you will get an error. So assume
+
+14
+00:00:57,600 --> 00:01:03,830
+I write [row] 5, [column] 5, you'll get message saying that the coordinate is invalid.
+
+15
+00:01:03,840 --> 00:01:09,110
+So [this would] also be a problem if you write 0, this would also be invalid.
+
+16
+00:01:09,120 --> 00:01:13,510
+So any number that's either 0, or 5 and above,
+
+17
+00:01:13,520 --> 00:01:15,000
+the program will not work.
+
+18
+00:01:33,080 --> 00:01:35,350
+You will be asked if you want to play again.
+
+19
+00:01:35,360 --> 00:01:39,270
+So if I do want to play again, I'll press 'yes', and the whole game resets to what
+
+20
+00:01:39,280 --> 00:01:42,670
+it was before. So I just do the same thing as usual. And if I don't want to play
+
+21
+00:01:42,680 --> 00:01:47,350
+again, I just press 'end' to end the game, and the program exits
+
+22
+00:01:47,360 --> 00:01:51,510
+and that's pretty much it.
