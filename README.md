@@ -10,4 +10,6 @@ This was a semester-long team project completed with one partner as part of a Co
 
 - Coded the core matching logic that hides both selected cards when they do not match.
 
-Please view 'FinalProject.mov' and read 'User Manual.pdf' to familiarize yourself with how to run this game.
+Please read 'User Manual.pdf' to familiarize yourself with how to run this game.
+
+A video walkthrough is availiable in the 'video' folder. Download the '.mov' file and the '.srt' file for subtitles to go along with the video.
