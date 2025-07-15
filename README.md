@@ -9,3 +9,5 @@ This was a semester-long team project completed with one partner as part of a Co
 - Initialized card assignment values used to define and identify matching card pairs on the grid.
 
 - Coded the core matching logic that hides both selected cards when they do not match.
+
+Please view 'FinalProject.mov' and read 'User Manual.pdf' to familiarize yourself with how to run this game.
